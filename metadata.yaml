@@ -1,0 +1,26 @@
+_repo: Nameless-River_63164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roe, Vingie E. (Vingie Eve)
+    aliases:
+    - Lawton, Raymond C., Mrs.
+    - Lawton, Mrs. Raymond C.
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '1750'
+    url: http://www.gutenberg.org/2009/agents/1750
+    wikipedia: https://en.wikipedia.org/wiki/Vingie_E._Roe
+description: ''
+gutenberg_issued: '2020-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Nameless River
+url: http://www.gutenberg.org/ebooks/63164
