@@ -1,5 +1,8 @@
 _repo: Nameless-River_63164
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63164-h/images/cover.jpg
 creator:
   author:
     agent_name: Roe, Vingie E. (Vingie Eve)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1750
     wikipedia: https://en.wikipedia.org/wiki/Vingie_E._Roe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63164#Nameless-River
 gutenberg_issued: '2020-09-09'
 gutenberg_type: Text
 identifiers:
